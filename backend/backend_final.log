@@ -1,0 +1,4 @@
+nohup: ignoring input
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+Server running on port 3001
+Database initialized
